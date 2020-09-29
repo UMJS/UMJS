@@ -13,7 +13,7 @@ Eu moro em salvador da Bahia, sou comunicativo, trabalho bem em equipe, sou memb
 
 Como fruto da necessidade de incluir digitalmente os PCDs, iniciei essa caminhada nas trilhas virtuais da programação, tendo como objetivo me tornar um programador web e posteriormente full-stack, e assim elaborar sites e apps para o público PCD.
 
-Atualmente sou aluno do IFTO (Instituto Federal do Tocantins) no curso de programador web.
+Atualmente sou aluno do IFTO (Instituto Federal do Tocantins) & na IFRO (Instituto Federal de Rondônia) no curso de programador web.
 
 </details>
 
