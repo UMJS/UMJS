@@ -13,13 +13,12 @@ Eu moro em salvador da Bahia, sou comunicativo, trabalho bem em equipe, sou memb
 
 Como fruto da necessidade de incluir digitalmente os PCDs, iniciei essa caminhada nas trilhas virtuais da programação, tendo como objetivo me tornar um programador web e posteriormente full-stack, e assim elaborar sites e apps para o público PCD.
 
-Atualmente sou aluno do IFTO (Instituto Federal do Tocantins) & na IFRO (Instituto Federal de Rondônia) no curso de programador web.
-
+Atualmente sou graduando em Bacharelado em Sistemas de Informação
 </details>
 
 ### 💻 Estudando atualmente
 
-![angular](https://img.shields.io/badge/-Angular-DD0031?style=flat-square&logo=angular&logoColor=white)![Docker](https://img.shields.io/badge/-Docker-46a2f1?style=flat-square&logo=docker&logoColor=white)![CSS3](https://img.shields.io/badge/-CSS3-549FDE?style=flat-square&logo=css3&logoColor=white)![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)![MySQL](https://img.shields.io/badge/-MySQL-00758F?style=flat-square&logo=mysql&logoColor=white)![Nodejs](https://img.shields.io/badge/-Node.js-43853d?style=flat-square&logo=Node.js&logoColor=white)![npm](https://img.shields.io/badge/-NPM-CB3837?style=flat-square&logo=npm&logoColor=white)![Prettier](https://img.shields.io/badge/-Prettier-1A2B34?style=flat-square&logo=prettier&logoColor=white)![php 7.4 Badge](https://img.shields.io/badge/-7.4-000?style=flat&color=grey&logo=Php&logoColor=white&label=Php&labelColor=black)![visual studio code 1.48.2 Badge](https://img.shields.io/badge/-1.48.2-000?style=flat&color=grey&logo=visual-studio-code&logoColor=white&label=visual_studio_code&labelColor=black)![Windows](https://img.shields.io/badge/-Windows-00ADEF?style=flat-square&logo=windows&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-549FDE?style=flat-square&logo=css3&logoColor=white)![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)![MySQL](https://img.shields.io/badge/-MySQL-00758F?style=flat-square&logo=mysql&logoColor=white)![Nodejs](https://img.shields.io/badge/-Node.js-43853d?style=flat-square&logo=Node.js&logoColor=white)![Prettier](https://img.shields.io/badge/-Prettier-1A2B34?style=flat-square&logo=prettier&logoColor=white)![php 7.4 Badge](https://img.shields.io/badge/-7.4-000?style=flat&color=grey&logo=Php&logoColor=white&label=Php&labelColor=black)![visual studio code 1.48.2 Badge](https://img.shields.io/badge/-1.48.2-000?style=flat&color=grey&logo=visual-studio-code&logoColor=white&label=visual_studio_code&labelColor=black)![Windows](https://img.shields.io/badge/-Windows-00ADEF?style=flat-square&logo=windows&logoColor=white)
 <img align="left" alt="Wordpress" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/wordpress/wordpress.png"/>
 
 ![](https://github-readme-stats.vercel.app/api?username=UMJS)
