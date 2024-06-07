@@ -16,12 +16,26 @@ Como fruto da necessidade de incluir digitalmente os PCDs, iniciei essa caminhad
 Atualmente sou graduando em Bacharelado em Sistemas de Informação
 </details>
 
-### 💻 Estudando atualmente
+### 💻 Tecnologias:
 
-![CSS3](https://img.shields.io/badge/-CSS3-549FDE?style=flat-square&logo=css3&logoColor=white)![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)![MySQL](https://img.shields.io/badge/-MySQL-00758F?style=flat-square&logo=mysql&logoColor=white)![Nodejs](https://img.shields.io/badge/-Node.js-43853d?style=flat-square&logo=Node.js&logoColor=white)![Prettier](https://img.shields.io/badge/-Prettier-1A2B34?style=flat-square&logo=prettier&logoColor=white)![php 7.4 Badge](https://img.shields.io/badge/-7.4-000?style=flat&color=grey&logo=Php&logoColor=white&label=Php&labelColor=black)![visual studio code 1.48.2 Badge](https://img.shields.io/badge/-1.48.2-000?style=flat&color=grey&logo=visual-studio-code&logoColor=white&label=visual_studio_code&labelColor=black)![Windows](https://img.shields.io/badge/-Windows-00ADEF?style=flat-square&logo=windows&logoColor=white)
-<img align="left" alt="Wordpress" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/wordpress/wordpress.png"/>
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-549FDE?style=flat-square&logo=css3&logoColor=white)
+![MySQL](https://img.shields.io/badge/-MySQL-00758F?style=flat-square&logo=mysql&logoColor=white)
+![Nodejs](https://img.shields.io/badge/-Node.js-43853d?style=flat-square&logo=Node.js&logoColor=white)
+![php 7.4 Badge](https://img.shields.io/badge/-7.4-000?style=flat&color=grey&logo=Php&logoColor=white&label=Php&labelColor=black)
 
-![](https://github-readme-stats.vercel.app/api?username=UMJS)
+## - Outras Tecnologias:
+![Git](https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white) 
+![Github](https://img.shields.io/badge/github%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white) 
+![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
+![Json](https://img.shields.io/badge/json-5E5C5C?style=for-the-badge&logo=json&logoColor=white)
+![windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 
+## ⭐Git Status
+| ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=UMJS&theme=blueberry) | ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=UMJS&theme=blueberry) | ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=UMJS&theme=blueberry) |
+| :-: | :-: | :-: |
+
+|![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=UMJS&theme=blueberry&utcOffset=8) |![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=UMJS&theme=blueberry)| 
+| :-: | :-: |
 
 # Volte sempre! # 😉
