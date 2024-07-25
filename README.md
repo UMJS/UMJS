@@ -5,7 +5,7 @@
 Sou um desenvolvedor front-end apaixonado por tecnologia e inclusão digital. Acredito no poder da tecnologia para transformar vidas e estou comprometido em utilizar minhas habilidades para construir um mundo mais acessível e inclusivo.
 
 ## Contatos: 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ubaldo-meireles-de-jesus-sousa-b8b62b32)](https://www.linkedin.com/in/ubaldo-meireles-de-jesus-sousa-b8b62b32)[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:contato.ubaldo3@gmail.com)](mailto:contato.ubaldo3@gmail.com)[![Instagram Badge](https://img.shields.io/badge/-ubaldo3-a43b9d?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/ubaldo3/)]
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ubaldo-meireles-de-jesus-sousa-b8b62b32)](https://www.linkedin.com/in/ubaldo-meireles-de-jesus-sousa-b8b62b32)[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:contato.ubaldo3@gmail.com)](mailto:contato.ubaldo3@gmail.com)![Instagram Badge](https://img.shields.io/badge/-ubaldo3-a43b9d?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/ubaldo3/)
 
 <details>
 <summary>  <b> Quer saber mais sobre mim? </b>  <i>(Clique aqui para expandir)</i>  </summary>
